@@ -1,0 +1,20 @@
+node_modules/
+hls/
+*.env
+collages_output/
+files/
+public/images/
+__pycache__/
+*.mp4
+*.zip
+*.log
+# HLS stream output (runtime, never commit)
+hls/
+hls_test/
+
+# Snapshot files (runtime, never commit)
+files/
+
+# Logs
+*.log
+node_modules/
